@@ -19,7 +19,7 @@ Atribui responsabilidade de criação de instâncias em  classe.
 
 ##  Factory Method
 
-Permite às classes delegar para subclasses decidirem, uma interface e implementado por um classe filha.  
+Permite as classes delegar para subclasses decidirem, uma interface e implementado por um classe filha.  
 
 ##  Abstract Factory 
 
