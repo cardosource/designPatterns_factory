@@ -30,5 +30,5 @@ class Frabricar:
 
 #Solicitar
 rodar= Frabricar()
-conteudo = input("Quais movimento apoiaria  [tecnologia ou  movimento social")
+conteudo = input("Qual movimento apoiaria  [tecnologia ou social")
 rodar.criar_conteudo(conteudo)
