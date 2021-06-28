@@ -26,3 +26,4 @@ Permite às classes delegar para subclasses decidirem, uma interface e implement
 Criação de famílias de objetos relacionados ou dependentes por meio de uma única interface
   
 
+![GitHub](https://img.shields.io/badge/python-v3.9.5-blue) ![GitHub](https://img.shields.io/badge/licence-MIT-GREE) 
