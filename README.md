@@ -30,4 +30,4 @@ Criação de famílias de objetos relacionados ou dependentes por meio de uma ú
 
 
 
-![GitHub](https://img.shields.io/badge/python-v3.9.5-blue) ![GitHub](https://img.shields.io/badge/licence-MIT-GREE) 
+![](https://img.shields.io/badge/.-v3.9-informational?style=flat&logo=python&logoColor=white&color=blue) ![GitHub](https://img.shields.io/badge/licence-MIT-GREE) 
